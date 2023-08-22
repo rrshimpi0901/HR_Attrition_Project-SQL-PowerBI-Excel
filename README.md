@@ -1,6 +1,5 @@
 Welcome to the HR Dashboard project! 🚀
 
-Introduction
 This GitHub repository showcases two powerful HR dashboards created to provide data-driven insights into attrition patterns within your organization. With one dashboard built in Power BI and another in Excel, we offer flexibility and accessibility for users of various platforms.
 
 What's Inside
